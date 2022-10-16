@@ -12,9 +12,9 @@ Identifying similar content by matching text-based features
 Network analysis of Actors / Directors and find interesting insights
 Does Netflix has more focus on TV Shows than movies in recent years.
 
-### Part 1: Importing the libraries & Reading data.[Here](#Part-1:-Importing-the-libraries-&-Reading-data.)
-### Part 2: Exploring the data.[Here](#Part-2:-Exploring-the-data.)
-### Part 3: bussiness questions:[Here](#Part-3:-bussiness-questions:)
+### Part 1: Importing the libraries & Reading data.
+### Part 2: Exploring the data.
+### Part 3: bussiness questions:
 >* [**Q1: The number of Movies/TV Shows each year?**](#Q1:-The-number-of-Movies/TV-Shows-each-year?)
 >* [**Q2: Most categories appeared in the last years?**](#Q2:-Most-categories-appeared-in-the-last-years?)
 >* [**Q3: What most common directors appeared in the last years?**](#Q3:-What-most-common-directors-appeared-in-the-last-years?)
@@ -26,8 +26,8 @@ Does Netflix has more focus on TV Shows than movies in recent years.
 >* [**Q9: Which one get more movies or TV shows?**](#Q9:-Which-one-get-more-movies-or-TV-shows?)
 >* [**Q10: What is the type of rating that have the highest number?**](#Q10:-What-is-the-type-of-rating-that-have-the-highest-number?)
 
-### Part 4: Fill NaN Values for Every columns.[Here](#Part-4:-Fill-NaN-Values-for-Every-columns.)
-### Part 5: time series modeling:[Here](#Part-5:-time-series-modeling:)
+### Part 4: Fill NaN Values for Every columns.
+### Part 5: time series modeling:
 >* [**Visualize the time series**](#Visualize-the-time-series)
 >* [**Stationarize the series**](#Stationarize-the-series)
 >* [**Plot ACF/PACF charts**](#Plot-ACF/PACF-charts)
